@@ -21,3 +21,6 @@ Sources:
 [Instructions for Installing `libimobiledevice`](https://confusatory.org/post/127183189821/ios-debugging-device-console-without-wires)
 
 [Additional Information on `libimobiledevice`](https://stackoverflow.com/questions/7277804/ios-iphone-ipad-ipodtouch-view-real-time-console-log-terminal)
+
+** Next Step
+  * Determine which logs specifically identify the start, close, and focus state of an app.
