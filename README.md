@@ -23,4 +23,5 @@ Sources:
 [Additional Information on `libimobiledevice`](https://stackoverflow.com/questions/7277804/ios-iphone-ipad-ipodtouch-view-real-time-console-log-terminal)
 
 ** Next Step
-  * Determine which logs specifically identify the start, close, and focus state of an app.
+  * Determine which logs specifically identify the start, close, and active (or inactive) state of an app.
+  * Check out MacOS and iOS new subsystem [RunningBoard](https://eclecticlight.co/2019/11/07/runningboard-a-new-subsystem-in-catalina-to-detect-errors/) for some details about Apple's system information.
