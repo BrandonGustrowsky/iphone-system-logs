@@ -15,6 +15,7 @@ This simple python app connects to your iPhone's system logs and prints each log
 4. You should be all set up to run this app! Enjoy!
 
 Sources:
+ 
 [Access iPhone Logs in xCode](https://community.tealiumiq.com/t5/Tealium-for-iOS/How-do-I-access-the-iOS-device-logs/ta-p/16420#:~:text=Answer%201%20Install%20XCode%20on%20your%20computer.%202,on%20the%20device%20will%20be%20displayed%20here.%20)
 
 [Instructions for Installing `libimobiledevice`](https://confusatory.org/post/127183189821/ios-debugging-device-console-without-wires)
