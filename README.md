@@ -18,3 +18,5 @@ Sources:
 [Access iPhone Logs in xCode](https://community.tealiumiq.com/t5/Tealium-for-iOS/How-do-I-access-the-iOS-device-logs/ta-p/16420#:~:text=Answer%201%20Install%20XCode%20on%20your%20computer.%202,on%20the%20device%20will%20be%20displayed%20here.%20)
 
 [Instructions for Installing `libimobiledevice`](https://confusatory.org/post/127183189821/ios-debugging-device-console-without-wires)
+
+[Additional Information on `libimobiledevice`](https://stackoverflow.com/questions/7277804/ios-iphone-ipad-ipodtouch-view-real-time-console-log-terminal)
