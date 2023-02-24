@@ -10,7 +10,7 @@ This simple python app connects to your iPhone's system logs and prints each log
 1. Install <b>libimobiledevice</b> (globally) with brew: `brew install libimobiledevice`
 2. Get your iPhone's device UDID. This can be accomplished in two ways:
   * Enter `idevice_id --list` and find your device's UDID
-  * In xCode under <b>Window > Devices > `<your device>`</b> copy the devices <b>Identifier</b>.
+  * In xCode under <b>Window > Devices > `<your device>`</b> copy the device's <b>Identifier</b>.
 3. Run the following command to view your iPhone's logs in the terminal: `idevicesyslog -u <device udid>`.
 4. You should be all set up to run this app! Enjoy!
 
